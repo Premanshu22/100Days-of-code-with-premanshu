@@ -15,6 +15,8 @@ I’m Premanshu Das Biswas, a 3rd year B.Tech CSE student, and I’ve committed 
 ## 📌 Goals of the Challenge
 
 - ✅ Master full-stack web development with PHP, JavaScript, and WordPress
+- ✅ Master DSA with Java
+- ✅ Master AI, Machine Learning
 - ✅ Build and deploy at least 3 real-world projects
 - ✅ Maintain a consistent GitHub contribution graph
 - ✅ Improve problem-solving and debugging skills
@@ -24,7 +26,10 @@ I’m Premanshu Das Biswas, a 3rd year B.Tech CSE student, and I’ve committed 
 
 ## 🛠️ Tech Stack & Tools
 
-- PHP & MySQL  
+- PHP & MySQL
+- Java
+- Python
+- DSA
 - HTML, CSS, JavaScript  
 - WordPress & Plugin/Theme Development  
 - Git & GitHub  
